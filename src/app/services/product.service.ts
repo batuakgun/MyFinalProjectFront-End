@@ -5,7 +5,7 @@ import { ListResponseModel } from '../models/listResponseModel';
 import { Product } from '../models/product';
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root' 
 })
 export class ProductService {
 
